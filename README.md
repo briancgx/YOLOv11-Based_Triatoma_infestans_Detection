@@ -26,7 +26,7 @@ The manual identification of _Triatoma infestans_ is a time-consuming process pr
 1. Clone the repository:
 ```bash
 git clone https://github.com/briancgx/jedAIs_145.git
-cd JedAIs_145
+cd jedAIs_145
 ```
 
 2. Install dependencies
