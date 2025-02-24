@@ -33,10 +33,14 @@ cd your-repo
 ```bash
 pip install -r requirements.txt
 ```
-
-3. Run inference:
+3. Navegate to folder
 ```bash
-python project/models/production_model/inference_script.py
+cd project/models/production_model/
+```
+
+4. Run inference:
+```bash
+python inference_script.py
 ```
 
 ## Demostration Video 
