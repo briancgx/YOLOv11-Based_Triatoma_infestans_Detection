@@ -25,8 +25,8 @@ The manual identification of _Triatoma infestans_ is a time-consuming process pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/briancgx/YOLOv11-Based_Triatoma_infestans_Detection.git
+cd YOLOv11-Based_Triatoma_infestans_Detection
 ```
 
 2. Install dependencies
@@ -53,5 +53,5 @@ Watch the demonstration video of our model at the following link: [Demo](demo/de
 - Team Members: [Brian A. Cumi-Guzman](mailto:brian.azael02@gmail.com), [Alejandro D. Espinosa-Chim](mailto:danyespinosachim@gmail.com), [Alfonso Barragan-Romero](mailto:alfonso.barragan0304@gmail.com)
 - [x] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
 - [x] This AAAI 2025 hackathon entry was created by the team during the period of the hackathon, February 17 – February 24, 2025
-- [x] The entry includes a 2-minute maximum length demo video here: [Link](https://your-link.com)
+- [x] The entry includes a 2-minute maximum length demo video here: [Link](https://youtu.be/DG-NRCte6Oc)
 - [x] The entry clearly identifies the selected theme in the README and the video.
