@@ -3,12 +3,13 @@
 This project implements a deep learning model based on YOLOv11 for the detection and classification of _Triatoma infestans_. It includes data segmentation, model training, and evaluation. The goal is to develop a robust and accurate AI solution for identifying this species in real-world scenarios.
 
 ## Problem Statement
-The manual identification of _Triatoma infestans_ is a time-consuming process prone to errors. Our model provides an automated and precise solution, reducing false positives and improving detection accuracy across different environments.
+The manual identification of _Triatoma infestans_ is a time-consuming process prone to errors.
+Our model provides an automated and precise solution, reducing false positives and improving detection accuracy across different environments.
 
 ## How the System Works
 - The model is trained using YOLOv11 with images of Triatoma infestans and other species to minimize false positives.
 - An inference system allows real-time image analysis for detection.
--The model is evaluated using key metrics such as accuracy, sensitivity, and false positive rate.
+- The model is evaluated using key metrics such as accuracy, sensitivity, and false positive rate.
 
 ## Repository Structure
 - project/dataset - Dataset used for model training.
